@@ -1,3 +1,4 @@
+.vscode
 _/test.cpp
 *.o
 src/*.o
