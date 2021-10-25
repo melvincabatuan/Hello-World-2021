@@ -11,4 +11,4 @@ Write a C program that performs basic arithmetic computations. The tests are cur
 Edit the calculator.cpp source file to perform basic arithmetic operations. You may run main.cpp to explore your solution.
 
 ## Note
-Do not modify any files in '_' folder
+Do not modify any files in 'x' folder
