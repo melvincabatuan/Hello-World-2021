@@ -1,5 +1,2 @@
 .vscode
-_/test.cpp
-*.o
-src/*.o
 src/*.exe
